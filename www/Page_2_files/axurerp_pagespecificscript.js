@@ -44,7 +44,7 @@ $axure.eventManager.click('u14', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Page_1.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Page_1_-_portrait.html');
 
 }
 });
